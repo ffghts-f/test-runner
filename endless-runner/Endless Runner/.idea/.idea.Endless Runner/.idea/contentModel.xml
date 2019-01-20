@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\felix\.Rider2018.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\felix\.Rider2018.2\system\resharper-host\Local\Transient\ReSharperHost\v182\SolutionCaches\_Endless Runner.1021089924.00" t="ExcludeRecursive" />
+    <e p="E:\source\Unity\endless-runner\Endless Runner" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="JumpAnimationTrigger.cs" t="Include" />
+        <e p="Scripts" t="Include">
+          <e p="AdsScript.cs" t="Include" />
+          <e p="BgLooper.cs" t="Include" />
+          <e p="ButtonHandler.cs" t="Include" />
+          <e p="GameManager.cs" t="Include" />
+          <e p="ObstacleController.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="SpawnObstacle.cs" t="Include" />
+        </e>
+        <e p="UnityAds" t="Include">
+          <e p="link.xml" t="Include" />
+        </e>
+      </e>
+      <e p="Endless Runner.sln" t="IncludeFlat" />
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
